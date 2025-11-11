@@ -1,0 +1,428 @@
+{
+  "figures": [
+    {
+      "para_idx": 27,
+      "raw_text": "Figure 11. Overall Multimodal Pipeline.",
+      "old_num": 11,
+      "caption": "Overall Multimodal Pipeline.",
+      "section": "4. Experimental Design",
+      "new_num": 1,
+      "suggested_filename": "overall_multimodal_pipeline"
+    },
+    {
+      "para_idx": 30,
+      "raw_text": "Figure 12. Data Preprocessing Workflow.",
+      "old_num": 12,
+      "caption": "Data Preprocessing Workflow.",
+      "section": "4. Experimental Design",
+      "new_num": 2,
+      "suggested_filename": "data_preprocessing_workflow"
+    },
+    {
+      "para_idx": 33,
+      "raw_text": "Figure 1. Full system architecture and pipeline.",
+      "old_num": 1,
+      "caption": "Full system architecture and pipeline.",
+      "section": "4. Experimental Design",
+      "new_num": 3,
+      "suggested_filename": "full_system_architecture_and_pipeline"
+    },
+    {
+      "para_idx": 38,
+      "raw_text": "Fig. 1. PCA explained variance for ResNet50 embeddings.",
+      "old_num": 1,
+      "caption": "PCA explained variance for ResNet50 embeddings.",
+      "section": "5.1 Image-Only Models",
+      "new_num": 4,
+      "suggested_filename": "pca_explained_variance_for_resnet50_embeddings"
+    },
+    {
+      "para_idx": 40,
+      "raw_text": "Figure 14. PCA Cumulative Variance with Simulated 95% Confidence Bounds.",
+      "old_num": 14,
+      "caption": "PCA Cumulative Variance with Simulated 95% Confidence Bounds.",
+      "section": "5.1 Image-Only Models",
+      "new_num": 5,
+      "suggested_filename": "pca_cumulative_variance_with_simulated_95_confidence_bounds"
+    },
+    {
+      "para_idx": 45,
+      "raw_text": "Figure 13. Metadata Feature Correlation Heatmap.",
+      "old_num": 13,
+      "caption": "Metadata Feature Correlation Heatmap.",
+      "section": "5.2 Metadata-Only Models",
+      "new_num": 6,
+      "suggested_filename": "metadata_feature_correlation_heatmap"
+    },
+    {
+      "para_idx": 56,
+      "raw_text": "Fig. 2. Multiclass confusion matrix for fusion gradient boosting.",
+      "old_num": 2,
+      "caption": "Multiclass confusion matrix for fusion gradient boosting.",
+      "section": "6. Results and Evaluation",
+      "new_num": 7,
+      "suggested_filename": "multiclass_confusion_matrix_for_fusion_gradient_boosting"
+    },
+    {
+      "para_idx": 58,
+      "raw_text": "Fig. 3. Multiclass confusion matrix for image logistic regression.",
+      "old_num": 3,
+      "caption": "Multiclass confusion matrix for image logistic regression.",
+      "section": "6. Results and Evaluation",
+      "new_num": 8,
+      "suggested_filename": "multiclass_confusion_matrix_for_image_logistic_regression"
+    },
+    {
+      "para_idx": 60,
+      "raw_text": "Fig. 4. ROC curve for fusion gradient boosting on malignant versus benign.",
+      "old_num": 4,
+      "caption": "ROC curve for fusion gradient boosting on malignant versus benign.",
+      "section": "6. Results and Evaluation",
+      "new_num": 9,
+      "suggested_filename": "roc_curve_for_fusion_gradient_boosting_on_malignant_versus_benign"
+    },
+    {
+      "para_idx": 62,
+      "raw_text": "Fig. 6. Accuracy comparison across models.",
+      "old_num": 6,
+      "caption": "Accuracy comparison across models.",
+      "section": "6. Results and Evaluation",
+      "new_num": 10,
+      "suggested_filename": "accuracy_comparison_across_models"
+    },
+    {
+      "para_idx": 65,
+      "raw_text": "Fig. 7. Radar chart of normalized metrics for representative models.",
+      "old_num": 7,
+      "caption": "Radar chart of normalized metrics for representative models.",
+      "section": "6. Results and Evaluation",
+      "new_num": 11,
+      "suggested_filename": "radar_chart_of_normalized_metrics_for_representative_models"
+    },
+    {
+      "para_idx": 67,
+      "raw_text": "Figure 9. Precision-Recall Curve \u2014 Fusion Gradient Boosting Model.",
+      "old_num": 9,
+      "caption": "Precision-Recall Curve \u2014 Fusion Gradient Boosting Model.",
+      "section": "6. Results and Evaluation",
+      "new_num": 12,
+      "suggested_filename": "precision_recall_curve_fusion_gradient_boosting_model"
+    },
+    {
+      "para_idx": 79,
+      "raw_text": "Figure 10. Baseline Model Comparison (Macro F1).",
+      "old_num": 10,
+      "caption": "Baseline Model Comparison (Macro F1).",
+      "section": "6.5 Ablation Studies and Modal Contributions",
+      "new_num": 13,
+      "suggested_filename": "baseline_model_comparison_macro_f1"
+    },
+    {
+      "para_idx": 82,
+      "raw_text": "Figure 3. Multiclass ROC curve for fusion gradient boosting.",
+      "old_num": 3,
+      "caption": "Multiclass ROC curve for fusion gradient boosting.",
+      "section": "6.5 Ablation Studies and Modal Contributions",
+      "new_num": 14,
+      "suggested_filename": "multiclass_roc_curve_for_fusion_gradient_boosting"
+    },
+    {
+      "para_idx": 85,
+      "raw_text": "Fig. 8. Grad-CAM overlay for grad_cam_fp_1.",
+      "old_num": 8,
+      "caption": "Grad-CAM overlay for grad_cam_fp_1.",
+      "section": "7. Interpretability (Grad-CAM, SHAP)",
+      "new_num": 15,
+      "suggested_filename": "grad_cam_overlay_for_grad_cam_fp_1"
+    },
+    {
+      "para_idx": 87,
+      "raw_text": "Fig. 9. Grad-CAM overlay for grad_cam_fp_2.",
+      "old_num": 9,
+      "caption": "Grad-CAM overlay for grad_cam_fp_2.",
+      "section": "7. Interpretability (Grad-CAM, SHAP)",
+      "new_num": 16,
+      "suggested_filename": "grad_cam_overlay_for_grad_cam_fp_2"
+    },
+    {
+      "para_idx": 89,
+      "raw_text": "Fig. 10. SHAP summary for metadata logistic regression.",
+      "old_num": 10,
+      "caption": "SHAP summary for metadata logistic regression.",
+      "section": "7. Interpretability (Grad-CAM, SHAP)",
+      "new_num": 17,
+      "suggested_filename": "shap_summary_for_metadata_logistic_regression"
+    },
+    {
+      "para_idx": 91,
+      "raw_text": "Fig. 11. SHAP waterfall for metadata gradient boosting (binary).",
+      "old_num": 11,
+      "caption": "SHAP waterfall for metadata gradient boosting (binary).",
+      "section": "7. Interpretability (Grad-CAM, SHAP)",
+      "new_num": 18,
+      "suggested_filename": "shap_waterfall_for_metadata_gradient_boosting_binary"
+    },
+    {
+      "para_idx": 93,
+      "raw_text": "Fig. 12. SHAP waterfall for fusion gradient boosting (binary).",
+      "old_num": 12,
+      "caption": "SHAP waterfall for fusion gradient boosting (binary).",
+      "section": "7. Interpretability (Grad-CAM, SHAP)",
+      "new_num": 19,
+      "suggested_filename": "shap_waterfall_for_fusion_gradient_boosting_binary"
+    },
+    {
+      "para_idx": 95,
+      "raw_text": "Fig. 13. SHAP waterfall for fusion MLP (binary).",
+      "old_num": 13,
+      "caption": "SHAP waterfall for fusion MLP (binary).",
+      "section": "7. Interpretability (Grad-CAM, SHAP)",
+      "new_num": 20,
+      "suggested_filename": "shap_waterfall_for_fusion_mlp_binary"
+    },
+    {
+      "para_idx": 102,
+      "raw_text": "Fig. 14. Accuracy by sex for fusion gradient boosting.",
+      "old_num": 14,
+      "caption": "Accuracy by sex for fusion gradient boosting.",
+      "section": "8. Fairness and Subgroup Analysis",
+      "new_num": 21,
+      "suggested_filename": "accuracy_by_sex_for_fusion_gradient_boosting"
+    },
+    {
+      "para_idx": 104,
+      "raw_text": "Fig. 15. Accuracy by age group for fusion gradient boosting.",
+      "old_num": 15,
+      "caption": "Accuracy by age group for fusion gradient boosting.",
+      "section": "8. Fairness and Subgroup Analysis",
+      "new_num": 22,
+      "suggested_filename": "accuracy_by_age_group_for_fusion_gradient_boosting"
+    },
+    {
+      "para_idx": 106,
+      "raw_text": "Fig. 16. Accuracy by localization sites for fusion gradient boosting.",
+      "old_num": 16,
+      "caption": "Accuracy by localization sites for fusion gradient boosting.",
+      "section": "8. Fairness and Subgroup Analysis",
+      "new_num": 23,
+      "suggested_filename": "accuracy_by_localization_sites_for_fusion_gradient_boosting"
+    },
+    {
+      "para_idx": 115,
+      "raw_text": "Figure 5. SHAP summary plot for the metadata logistic regression model.",
+      "old_num": 5,
+      "caption": "SHAP summary plot for the metadata logistic regression model.",
+      "section": "10. Discussion",
+      "new_num": 24,
+      "suggested_filename": "shap_summary_plot_for_the_metadata_logistic_regression_model"
+    },
+    {
+      "para_idx": 117,
+      "raw_text": "Figure 6. SHAP waterfall plot highlighting fusion gradient boosting contributions.",
+      "old_num": 6,
+      "caption": "SHAP waterfall plot highlighting fusion gradient boosting contributions.",
+      "section": "10. Discussion",
+      "new_num": 25,
+      "suggested_filename": "shap_waterfall_plot_highlighting_fusion_gradient_boosting_contributions"
+    },
+    {
+      "para_idx": 119,
+      "raw_text": "Figure 7. Grad-CAM visualisation for a correctly classified melanoma.",
+      "old_num": 7,
+      "caption": "Grad-CAM visualisation for a correctly classified melanoma.",
+      "section": "10. Discussion",
+      "new_num": 26,
+      "suggested_filename": "grad_cam_visualisation_for_a_correctly_classified_melanoma"
+    },
+    {
+      "para_idx": 121,
+      "raw_text": "Figure 8. Grad-CAM visualisation for a false-positive nevus prediction.",
+      "old_num": 8,
+      "caption": "Grad-CAM visualisation for a false-positive nevus prediction.",
+      "section": "10. Discussion",
+      "new_num": 27,
+      "suggested_filename": "grad_cam_visualisation_for_a_false_positive_nevus_prediction"
+    }
+  ],
+  "references": [
+    {
+      "paragraph_index": 28,
+      "section": "4. Experimental Design",
+      "match_text": "Figure 11",
+      "new_numbers": [
+        1
+      ],
+      "text": "Figure 11 outlines the multimodal flow from metadata encoding and ResNet50 feature extraction through fusion and evaluation.",
+      "replacement": "Figure 1"
+    },
+    {
+      "paragraph_index": 31,
+      "section": "4. Experimental Design",
+      "match_text": "Figure 12",
+      "new_numbers": [
+        2
+      ],
+      "text": "Figure 12 summarises preprocessing steps including missing value imputation, label binarisation, and stratified group-aware splitting.",
+      "replacement": "Figure 2"
+    },
+    {
+      "paragraph_index": 41,
+      "section": "5.1 Image-Only Models",
+      "match_text": "Figure 14",
+      "new_numbers": [
+        5
+      ],
+      "text": "To gauge stability, we simulated a \u00b12% confidence envelope around cumulative explained variance. The narrow band in Figure 14 illustrates that retaining 50 components keeps variance estimates well within tolerance, validating the dimensionality choice.",
+      "replacement": "Figure 5"
+    },
+    {
+      "paragraph_index": 46,
+      "section": "5.2 Metadata-Only Models",
+      "match_text": "Figure 13",
+      "new_numbers": [
+        6
+      ],
+      "text": "Figure 13 shows limited correlation between age and categorical encodings; Pearson magnitudes remain below 0.35, indicating minimal multicollinearity. This confirms that simultaneous age and localization features do not destabilise the metadata classifiers.",
+      "replacement": "Figure 6"
+    },
+    {
+      "paragraph_index": 68,
+      "section": "6. Results and Evaluation",
+      "match_text": "Fig. 2",
+      "new_numbers": [
+        7
+      ],
+      "text": "Fusion gradient boosting leads multiclass performance with accuracy 0.758 and macro-F1 0.559 (Table 4, Fig. 2). Binary fusion SVM attains ROC-AUC 0.906 (Table 5). Image-only logistic regression underperforms on melanomas (Fig. 3). The fusion ROC and PR curves (Figs. 4\u20135) confirm superior malignant discrimination, while model comparison plots (Figs. 6\u20137) illustrate consistent improvements across metrics. Weighted late fusion achieves accuracy 0.700 on the evaluation subset. Figure 9 shows the multiclass precision-recall trade-off for fusion gradient boosting, demonstrating sustained precision above 0.4 across the clinically relevant recall range.",
+      "replacement": "Figure 7"
+    },
+    {
+      "paragraph_index": 68,
+      "section": "6. Results and Evaluation",
+      "match_text": "Fig. 3",
+      "new_numbers": [
+        8
+      ],
+      "text": "Fusion gradient boosting leads multiclass performance with accuracy 0.758 and macro-F1 0.559 (Table 4, Fig. 2). Binary fusion SVM attains ROC-AUC 0.906 (Table 5). Image-only logistic regression underperforms on melanomas (Fig. 3). The fusion ROC and PR curves (Figs. 4\u20135) confirm superior malignant discrimination, while model comparison plots (Figs. 6\u20137) illustrate consistent improvements across metrics. Weighted late fusion achieves accuracy 0.700 on the evaluation subset. Figure 9 shows the multiclass precision-recall trade-off for fusion gradient boosting, demonstrating sustained precision above 0.4 across the clinically relevant recall range.",
+      "replacement": "Figure 8"
+    },
+    {
+      "paragraph_index": 68,
+      "section": "6. Results and Evaluation",
+      "match_text": "Figs. 4\u20135",
+      "new_numbers": [
+        9
+      ],
+      "text": "Fusion gradient boosting leads multiclass performance with accuracy 0.758 and macro-F1 0.559 (Table 4, Fig. 2). Binary fusion SVM attains ROC-AUC 0.906 (Table 5). Image-only logistic regression underperforms on melanomas (Fig. 3). The fusion ROC and PR curves (Figs. 4\u20135) confirm superior malignant discrimination, while model comparison plots (Figs. 6\u20137) illustrate consistent improvements across metrics. Weighted late fusion achieves accuracy 0.700 on the evaluation subset. Figure 9 shows the multiclass precision-recall trade-off for fusion gradient boosting, demonstrating sustained precision above 0.4 across the clinically relevant recall range.",
+      "replacement": "Figure 9"
+    },
+    {
+      "paragraph_index": 68,
+      "section": "6. Results and Evaluation",
+      "match_text": "Figs. 6\u20137",
+      "new_numbers": [
+        10,
+        11
+      ],
+      "text": "Fusion gradient boosting leads multiclass performance with accuracy 0.758 and macro-F1 0.559 (Table 4, Fig. 2). Binary fusion SVM attains ROC-AUC 0.906 (Table 5). Image-only logistic regression underperforms on melanomas (Fig. 3). The fusion ROC and PR curves (Figs. 4\u20135) confirm superior malignant discrimination, while model comparison plots (Figs. 6\u20137) illustrate consistent improvements across metrics. Weighted late fusion achieves accuracy 0.700 on the evaluation subset. Figure 9 shows the multiclass precision-recall trade-off for fusion gradient boosting, demonstrating sustained precision above 0.4 across the clinically relevant recall range.",
+      "replacement": "Figures 10 and 11"
+    },
+    {
+      "paragraph_index": 68,
+      "section": "6. Results and Evaluation",
+      "match_text": "Figure 9",
+      "new_numbers": [
+        12
+      ],
+      "text": "Fusion gradient boosting leads multiclass performance with accuracy 0.758 and macro-F1 0.559 (Table 4, Fig. 2). Binary fusion SVM attains ROC-AUC 0.906 (Table 5). Image-only logistic regression underperforms on melanomas (Fig. 3). The fusion ROC and PR curves (Figs. 4\u20135) confirm superior malignant discrimination, while model comparison plots (Figs. 6\u20137) illustrate consistent improvements across metrics. Weighted late fusion achieves accuracy 0.700 on the evaluation subset. Figure 9 shows the multiclass precision-recall trade-off for fusion gradient boosting, demonstrating sustained precision above 0.4 across the clinically relevant recall range.",
+      "replacement": "Figure 12"
+    },
+    {
+      "paragraph_index": 80,
+      "section": "6.5 Ablation Studies and Modal Contributions",
+      "match_text": "Figure 10",
+      "new_numbers": [
+        13
+      ],
+      "text": "Figure 10 confirms that multimodal configurations dominate across macro F1, with fusion gradient boosting and logistic regression surpassing image-only and metadata-only baselines. Late fusion remains competitive but trails early fusion, reinforcing the value of joint feature spaces.",
+      "replacement": "Figure 13"
+    },
+    {
+      "paragraph_index": 96,
+      "section": "7. Interpretability (Grad-CAM, SHAP)",
+      "match_text": "Figs. 10\u201313",
+      "new_numbers": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "text": "Grad-CAM overlays (Figs. 8\u20139) demonstrate that correctly classified melanomas emphasize asymmetric pigment networks, whereas false positives attend to benign globules. SHAP explanations (Figs. 10\u201313) consistently highlight age, lower-extremity localization, and histopathology sourcing as dominant features driving malignant predictions, aligning with dermatological intuition and supporting clinical trust.",
+      "replacement": "Figures 17\u00021320"
+    },
+    {
+      "paragraph_index": 96,
+      "section": "7. Interpretability (Grad-CAM, SHAP)",
+      "match_text": "Figs. 8\u20139",
+      "new_numbers": [
+        15,
+        16
+      ],
+      "text": "Grad-CAM overlays (Figs. 8\u20139) demonstrate that correctly classified melanomas emphasize asymmetric pigment networks, whereas false positives attend to benign globules. SHAP explanations (Figs. 10\u201313) consistently highlight age, lower-extremity localization, and histopathology sourcing as dominant features driving malignant predictions, aligning with dermatological intuition and supporting clinical trust.",
+      "replacement": "Figures 15 and 16"
+    },
+    {
+      "paragraph_index": 107,
+      "section": "8. Fairness and Subgroup Analysis",
+      "match_text": "Figs. 14\u201316",
+      "new_numbers": [
+        21,
+        22,
+        23
+      ],
+      "text": "Tables 6\u20138 and the accompanying fairness plots (Figs. 14\u201316) reveal comparable accuracy for male and female cohorts (0.81 vs. 0.80), but a marked drop for patients over 60 (0.59). Localization disparities\u2014particularly on scalp and acral sites\u2014suggest targeted augmentation and domain adaptation for underrepresented anatomical regions.",
+      "replacement": "Figures 21\u00021323"
+    },
+    {
+      "paragraph_index": 112,
+      "section": "10. Discussion",
+      "match_text": "Figs. 2\u20137",
+      "new_numbers": [
+        7,
+        9,
+        10,
+        11,
+        14
+      ],
+      "text": "Multimodal fusion consistently outperforms unimodal baselines (Tables 4\u20135, Figs. 2\u20137), confirming that metadata contributes complementary signal for ambiguous lesions. Binary screening provides superior malignant recall yet sacrifices lesion-specific granularity. Interpretability artifacts (Figs. 8\u201313) reinforce clinician trust by aligning model focus with dermatological heuristics.",
+      "replacement": "Figures 7, 9, 10, 11, and 14"
+    },
+    {
+      "paragraph_index": 112,
+      "section": "10. Discussion",
+      "match_text": "Figs. 8\u201313",
+      "new_numbers": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "text": "Multimodal fusion consistently outperforms unimodal baselines (Tables 4\u20135, Figs. 2\u20137), confirming that metadata contributes complementary signal for ambiguous lesions. Binary screening provides superior malignant recall yet sacrifices lesion-specific granularity. Interpretability artifacts (Figs. 8\u201313) reinforce clinician trust by aligning model focus with dermatological heuristics.",
+      "replacement": "Figures 15\u00021320"
+    },
+    {
+      "paragraph_index": 122,
+      "section": "10. Discussion",
+      "match_text": "Figures 5\u20138",
+      "new_numbers": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "text": "Figures 5\u20138 illustrate how the metadata models emphasise age, histopathology referral, and lower-extremity localisation, while Grad-CAM heatmaps highlight irregular pigment networks on melanomas and benign globules on false positives. These views align with dermatological heuristics, increasing clinician confidence.",
+      "replacement": "Figures 24\u00021327"
+    }
+  ]
+}
